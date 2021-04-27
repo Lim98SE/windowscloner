@@ -1,17 +1,17 @@
 # windowscloner
 Windows Cloner
 
-#Step One
+## Step One
 Open the file in Python IDLE (3.9.2)
 
-#Step Two
+## Step Two
 Run the module
 
-#Step Three
+## Step Three
 Type clone()
 
-#Step Four
+## Step Four
 Choose Location
 
-#Step Five
+## Step Five
 Wait
